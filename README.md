@@ -3,21 +3,21 @@
 
 - 🔭 I’m currently looking towards [New Personal Portfolio](https://github.com/ruex64/ruex64.github.io)
 
-- 🌱 I’m currently learning **CyberSecurity Webdevlopment**
+- 🌱 I’m currently learning **FullStack Development**
 
 - 👯 I’m currently Learning **Webdesign**
 
-- 🤝 I’m currently practising **Cybersecurity CTF'S**
+- 🤝 I’m currently practising **FrontEnd Development**
 
 - 👨‍💻 All info about me is available at [https://ruex64.me/](https://ruex64.me/)
 
 - 📝 I write articles on [https://blog.ruex64.me/](https://blog.ruex64.me/)
 
-- 💬 Ask me about **Html,Css,Js,IT,Cybersecurity**
+- 💬 Ask me about **Html,Css,Js,IT,Cybersecurity, WebDevlopment, Web/Graphic Desing**
 
 - 📫 How to reach me **dev.ruex64@yahoo.com**
 
-- ⚡ Working Towards **Secure Internet**
+- ⚡ Working Towards **Sustaintable toolkit and websites/webapps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
