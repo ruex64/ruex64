@@ -6,7 +6,7 @@
 ### <div align="center">I'm Rudraksh, a MERN developer 👨‍💻 and a Learner.🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Blooging website using react+firebase{still working}]()  
   
 
 - 🌱 I’m currently learning TypeScript and Kubernetes  
@@ -109,4 +109,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
