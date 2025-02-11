@@ -6,10 +6,13 @@
 ### <div align="center">I'm Rudraksh, a MERN developer 👨‍💻 and a Learner.🚀</div>  
   
 
-- 🔭 I’m currently working on [Blooging website using react+firebase{still working}]()  
+- 🔭 I’m currently working on [Code Snippet sharing platform{still working}]()  
   
 
-- 🌱 I’m currently learning TypeScript and Kubernetes  
+- 🌱 I’m currently learning TypeScript and Kubernetes
+  
+
+- 🚀I was recently working on [Blogging website using react+firebase](https://ruex64-blogs.netlify.app/) 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
